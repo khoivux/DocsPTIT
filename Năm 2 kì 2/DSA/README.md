@@ -1,1 +1,2 @@
-[CodePTIT](https://github.com/khoivux/CodePTIT/tree/main/CodePTIT_DSA)
+- Nguồn lời giải: [Huy Init](https://github.com/huyinit)
+- [CodePTIT](https://github.com/khoivux/CodePTIT/tree/main/CodePTIT_DSA)
