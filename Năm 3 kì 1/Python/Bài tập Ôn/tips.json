@@ -1,0 +1,22 @@
+{
+    "tips": [
+        {
+            "total" : "16.99",
+            "tip": "1.01",
+            "sex": "female",
+            "smoker": "No",
+            "day": "Sun",
+            "time": "Dinner",
+            "size": "2"
+        },
+        {
+            "total" : "10",
+            "tip": "2",
+            "sex": "male",
+            "smoker": "Yes",
+            "day": "Mun",
+            "time": "Dinner",
+            "size": "3"
+        }
+    ]
+}
