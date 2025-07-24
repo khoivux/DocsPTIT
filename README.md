@@ -1,5 +1,5 @@
 ### 📚 Tài liệu ngành CNTT - PTIT
-Repo tổng hợp tài liệu mình sưu tầm phục vụ cho việc học và thi trong quá trình học ngành **Công nghệ thông tin** tại **PTIT**.
+Repo tổng hợp tài liệu mình sưu tầm, sử dụng trong quá trình học ngành **Công nghệ thông tin** tại **PTIT**, phục vụ cho việc học tập và ôn thi.
 
 -----
 
