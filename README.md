@@ -6,6 +6,7 @@ Repo tổng hợp tài liệu mình sưu tầm, sử dụng trong quá trình h�
 ### 📄 Nội dung tài liệu
 - Slide bài giảng, giáo trình
 - Ghi chú học tập và file tổng hợp kiến thức
+- Code tham khảo, bài tập lớn
 - Đề thi giữa kỳ / cuối kỳ qua các năm
 - Câu hỏi trắc nghiệm, bài tập ôn thi
 - Tài liệu tham khảo ngoài (sách, repo,...)
