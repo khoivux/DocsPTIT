@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="NCLSport Team"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="201dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/badminton" />
+
+    <EditText
+        android:hint="Email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        />
+
+    <EditText
+        android:hint="Mật khẩu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        />
+    <TextView
+        android:text="Quên mật khẩu"
+        android:layout_gravity="end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"/>
+    <Button
+        android:text="Đăng nhập"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_button_gradient"
+        app:backgroundTint="@null"
+        android:layout_marginBottom="20dp"
+        />
+    <TextView
+        android:text="Lựa chọn khác"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="53dp"
+            android:layout_height="43dp"
+            android:src="@drawable/facebook" />
+
+        <ImageView
+            android:layout_width="53dp"
+            android:layout_height="43dp"
+            android:src="@drawable/google" />
+
+        <ImageView
+            android:layout_width="53dp"
+            android:layout_height="43dp"
+            android:src="@drawable/phone" />
+    </LinearLayout>
+    <TextView
+        android:text="Tạo tài khoản"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
